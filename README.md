@@ -5,7 +5,7 @@
 # Aim: 
 Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
 
-#AI Tools Required:
+# AI Tools Required:
 OpenAI API (for GPT-based models)
 
 Hugging Face Transformers (for alternative LLMs such as BERT, GPT-2, or Falcon)
@@ -67,10 +67,10 @@ else:
 ```
 
 # Output:
-=== OpenAI GPT Output ===
+OpenAI GPT Output
 Tomato prices are expected to rise in the coming month due to monsoon-related supply chain disruptions. Farmers may benefit by storing produce or connecting with local markets through digital platforms.  
 
-=== Hugging Face GPT-2 Output ===
+Hugging Face GPT-2 Output
 Predict the trend of tomato prices in the next month considering seasonal changes. The demand will increase...
 
 [Insight] OpenAI provided a more detailed explanation suitable for decision-making.
