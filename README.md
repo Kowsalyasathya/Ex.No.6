@@ -1,7 +1,7 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
-# Name: Kowsalya M
-# Register no: 212222230069
+## Name: Kowsalya M
+## Register no: 212222230069
 # Aim: 
 Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
 
